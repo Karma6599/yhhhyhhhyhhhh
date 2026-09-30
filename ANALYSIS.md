@@ -106,7 +106,7 @@ crypto from stage-0, and structural constraints).
 | src/utils/antiAfk.js | 4624-4641 | features/antiAfk.js |
 | src/mech/enemyAmmo.js | 4642-4675 | features/enemyAmmo.js |
 | src/utils/ping.js | 4676-4717 | features/ping.js |
-| top-level eval | 4718-end | core/bundle.js |
+| top-level eval | 4718-end | core/bundles.js |
 
 ## 5. Reconstruction tooling (in the analysis workspace)
 

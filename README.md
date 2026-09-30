@@ -40,7 +40,7 @@ utils/               support code
 └── gradients.js          Prism UI gradient theming
 
 core/
-├── bundle.js             esbuild runtime + module registry + boot sequence
+├── bundles.js            esbuild runtime + module registry + boot sequence (MANUALLY verified vs bytecode)
 └── nodeGlobals.js        process/Buffer shims
 ```
 
